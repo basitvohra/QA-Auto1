@@ -1,0 +1,33 @@
+
+mathod1:-
+----------
+locators -- properties file
+java class-- read propeties file , findwebelent
+TestNg --- tescase, datprovider
+excel
+
+=========================
+page object model --pom:--
+
+app:-
+----
+page1 --- F1,F2, F3 -- class1(locators + methods)
+page 2--- F4, F5--class2(locators + methods)
+page3 --- F6 --- class3(locators + methods)
+
+Run--TestNg ---- obj class1
+excel
+pageFactory -- class
+
+@FindBY --- Anontation of webdriver--- Find the webelement
+
+==========================
+
+
+
+
+Topic:--
+-----------
+css
+BDD
+selenium IDE

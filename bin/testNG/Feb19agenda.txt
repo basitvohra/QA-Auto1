@@ -1,0 +1,21 @@
+
+Groups:---
+----------
+
+smoke
+fun
+Reg
+
+parallel tc Execution:--
+-------------------
+
+Paramerization:---
+==================
+xml----  small data, less dynamic data
+Browser selection--- chrome /ff/...
+Environment url --- QA, stage, uat
+
+
+
+properties --- small data, less dynamic data
+excel--- huge data , dynamic data

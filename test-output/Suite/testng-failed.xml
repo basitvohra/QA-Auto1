@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="url" value="https://www.facebook.com/"/>
+    <classes>
+      <class name="testNG.Feb19App3">
+        <methods>
+          <include name="Launch"/>
+          <include name="classAnon"/>
+          <include name="afterclass"/>
+          <include name="closeDown"/>
+          <include name="ForgetFacebook"/>
+        </methods>
+      </class> <!-- testNG.Feb19App3 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

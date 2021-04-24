@@ -1,0 +1,10 @@
+
+
+Requirements:-
+
+1. properties file ---- save the element Locators. (Key-value)
+2. Java class ---
+	method--- Read the locators from properties file
+	method --- finding the webelemnts..
+	
+3. Java class/ TestNG ---- pass the Data -- run

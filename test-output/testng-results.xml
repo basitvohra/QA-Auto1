@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-23T22:27:56 CST" name="Default suite" finished-at="2021-02-23T22:28:08 CST" duration-ms="11209">
+    <groups>
+    </groups>
+    <test started-at="2021-02-23T22:27:56 CST" name="Default test" finished-at="2021-02-23T22:28:08 CST" duration-ms="11209">
+      <class name="assignment.A1_Google">
+        <test-method signature="launch_google()[pri:0, instance:assignment.A1_Google@23f7d05d]" started-at="2021-02-23T22:27:57 CST" name="launch_google" finished-at="2021-02-23T22:28:04 CST" duration-ms="7024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_google -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:assignment.A1_Google@23f7d05d]" started-at="2021-02-23T22:28:04 CST" name="afterMethod" finished-at="2021-02-23T22:28:08 CST" duration-ms="4154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- assignment.A1_Google -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
